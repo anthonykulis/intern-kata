@@ -14,7 +14,7 @@ Extending out what we did on the catfish kata, you will now build a form for adm
 ### Limitations
 Since this is hitting mock servers, there are some limitations.
 * You do not need to paginate the results. There are 100 records and you can read them all at once
-* When you do any CRUD operation that has server side effects, you should maintain those side effects locally. This means any POST, PUT, or DELETE operations should hit the mock server, but for kata reasons, the reducer should respond as if the server just sent back a 200 and never any data. Hint, you will need to update your actions slightly to pass the data to the reducer as if the server replied with the record so it can maintain state.
+* When you do any CRUD operation that has server side effects, you should maintain those side effects locally. This means any POST, PUT, or DELETE operations should hit the mock server, but for kata reasons, the reducer should respond as if the server just sent back a 200 and never any data. You will also need to handle the search GET as well. Hint, you will need to update your actions slightly to pass the data to the reducer as if the server replied with the record so it can maintain state.
 
 ### Tools
 You are allowed to use any tools, including `@chassi-dev/chassi-react-mui-components` or any other npm we host.
