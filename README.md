@@ -33,4 +33,4 @@ Finally, you are expected to commit each day until the project is finished. Make
 You will be evaluated on the proper logic of code residing in the proper spots of the React/Redux flow and in the proper spots of the React component lifecyle.
 
 ## Seeking help
-You are encouraged to seek help and guidance. Somethings are expected, meaning you are expected to be able to solve them on your own (see expectations). If a question is too much related to the expectations, I will direct you to the react and/or redux documentation.
+You are encouraged to seek help and guidance from me ony, Anthony Kulis. Somethings are expected, meaning you are expected to be able to solve them on your own (see expectations). If a question is too much related to the expectations, I will direct you to the react and/or redux documentation.
