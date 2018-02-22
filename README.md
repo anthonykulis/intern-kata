@@ -20,7 +20,7 @@ Since this is hitting mock servers, there are some limitations.
 You are allowed to use any tools, including `@chassi-dev/chassi-react-mui-components` or any other npm we host.
 
 ## UI
-UI isnt as important as logic here. I include a simple UI in the repo you can reference. The only thing I ask is that you use table headers of `Angler Name - Species - Weight - Date - Manage` and the rows have the corresponding values and manage has an edit and delete icon. The MUI components table in the storybook has great examples.
+UI isnt as important as logic here. I include a simple UI in the repo you can reference. The only thing I ask is that you use table headers of `Angler Name - Species - Weight - Date - Manage` and the rows have the corresponding values and manage has both an edit and delete icon. The MUI components table in the storybook has great examples.
 
 ## Expectations
 You are expected to properly build out the React/Redux flow, meaning the proper logic is in the proper parts of the flow (action -> reducer -> store -> ui). Remember, inside the UI putting code in proper places matter as well. Use the redux tools effectively and properly.
