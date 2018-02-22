@@ -1,6 +1,6 @@
 # Intern Kata
 
-The goal of this kata is to show you understand the React/Redux flow, as well as React routing flow at a junior developer level. You will query a set of APIs using all CRUD operations as well as Search.
+The goal of this kata is to show you understand the React/Redux flow at a junior developer level. You will query a set of APIs using all CRUD operations as well as Search.
 
 ## Directions
 
