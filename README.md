@@ -25,7 +25,9 @@ UI isnt as important as logic here. I include a simple UI in the repo you can re
 ## Expectations
 You are expected to properly build out the React/Redux flow, meaning the proper logic is in the proper parts of the flow (action -> reducer -> store -> ui). Remember, inside the UI putting code in proper places matter as well. Use the redux tools effectively and properly.
 
-You are also expected to write code. Avoid copy and pasting. I will be looking for copy paste in my evaluation. You may however use any existing code as reference material. 
+You are also expected to write code. Avoid copy and pasting. I will be looking for copy paste in my evaluation. You may however use any existing code as reference material.
+
+Finally, you are expected to commit each day until the project is finished. Make sure you commits are logical and granular. Make sure I am tagged some how. Feel free to do PRs on your fork of this and make me a reviewer for the PR. You do not need to tag me on each commit when you do this because github will notify me of the PR when you put me on as a review.
 
 ## Evaluation
 You will be evaluated on the proper logic of code residing in the proper spots of the React/Redux flow and in the proper spots of the React component lifecyle.
