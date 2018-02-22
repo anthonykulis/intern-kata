@@ -7,7 +7,7 @@ The goal of this kata is to show you understand the React/Redux, as well as Reac
 Extending out what we did on the catfish kata, you will now build a form for administrators of the catfish tournament to maintain records.
 
 * You will create a simple form to submit a new entry (Create operation)
-* You will create a table to view the entries (Read operation), sortable by name, species, length, girth, or date caught that allows the tournament administrator to perform the Update and Delete operations.
+* You will create a table to view the entries (Read operation), sortable by name, species, weight, or date caught that allows the tournament administrator to perform the Update and Delete operations.
 * When the administrator wishes to update an entry, the previously mentioned form fields will be populated and the submission handled there.
 * Lastly, to perform the search portion, there should be a form field that searches the entries by what the administrator has typed in. This could be any of the data columns. While typically we'd do this search on the server, we have no choice but to do it locally.
 
